@@ -1,0 +1,19 @@
+Blinkit Analysis – Business Objective
+To conduct a comprehensive analysis of Blinkit's sales performance using SQL by calculating key performance indicators (KPIs) and analysing sales across different product categories and outlet characteristics to identify key business insights and opportunities for improvement.
+
+KPI's Requirements
+1. Total Sales: Calculate the overall revenue generated from all items sold.
+2. Average Sales: Calculate the average revenue per item.
+3. Number of Items: Calculate the total number of items sold.
+4. Average Rating: Calculate the average customer rating.
+
+Granular Requirements
+1. Total Sales by Fat Content: Analyse the impact of fat content on total sales and other KPIs.
+2. Total Sales by Item Type: Identify the sales performance of different item categories.
+3. Fat Content by Outlet Location: Compare Low Fat and Regular product sales across different outlet locations.
+4. Total Sales by Outlet Establishment Year: Evaluate how outlet establishment year influences sales.
+5. Percentage of Sales by Outlet Size: Analyse the contribution of different outlet sizes to overall sales.
+6. Sales by Outlet Location: Assess sales distribution across Tier 1, Tier 2 and Tier 3 locations.
+7. All Metrics by Outlet Type: Compare total sales, average sales, number of items and average ratings across different outlet types.
+
+**** KPI are not limited only to above , you can experiment on the other KPI as well.
