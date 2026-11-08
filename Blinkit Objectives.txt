@@ -1,5 +1,5 @@
 Blinkit Analysis – Business Objective
-To conduct a comprehensive analysis of Blinkit's sales performance using SQL by calculating key performance indicators (KPIs) and analysing sales across different product categories and outlet characteristics to identify key business insights and opportunities for improvement.
+To conduct a comprehensive analysis of Blinkit's sales performance using SQL,PowerBi,python  by calculating key performance indicators (KPIs) and analysing sales across different product categories and outlet characteristics to identify key business insights and opportunities for improvement.
 
 KPI's Requirements
 1. Total Sales: Calculate the overall revenue generated from all items sold.
